@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Just Java</string>
+    <string name="checkboxTextCream">Whipped cream</string>
+    <string name="checkboxTextChoco">Chocolate</string>
+    <string name="AddWhippedCream">Add whipped cream :</string>
+    <string name="Addchocolate">Add chocolate :</string>
+    <string name="Name">Name:</string>
+    <string name="Quantity">Quantity :</string>
+    <string name="Total">Total :</string>
+    <string name="ThankYou">Thank you!</string>
+    <string name="OrderSummary">ORDERSUMMARY</string>
+    <string name="OrderButton">ORDER</string>
+</resources>
