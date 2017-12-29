@@ -10,6 +10,6 @@
         <item name="colorAccent">#536DFE</item>
         <item name="android:colorForeground">@color/foreground_material_light</item>
         <item name="android:colorBackground">@android:color/holo_green_light</item>
-        <item name="android:navigationBarColor">@android:color/holo_green_dark</item>
+        <item name="android:navigationBarColor">?android:attr/colorForeground</item>
     </style>
 </resources>
